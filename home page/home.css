@@ -1,19 +1,108 @@
 /* header */
-header{
-        border: 2px solid red  ;
+header {
+        border: 2px solid red;
 }
-        /*header logo */
 
-        /* header navagation option */
+/*header logo */
+
+
+/* header navagation option */
+
+
+
 
 /* main */
+.semester_2 {
+        border: 2px solid blue;
+}
 
-       /* main heading */
+/* linear algebra */
+.linear_algebra {
+        border: 2px solid black;
+}
 
-       /*subject list*/
-             
-                /* subject logo */
+.linear_algebra_logo {
+        width: 330px;
+        height: 200px;
+}
 
-                /* subject heading */
+/* semiconductor physics */
+.semiconductor_physics{
+        border:  2px solid green;
+}
+
+.semiconductor_physics_logo{
+        width: 330px;
+        height: 200px;
+}
+
+/* discrete mathematics */
+.discrete_mathematics{
+        border: 2px solid grey;
+}
+
+.discrete_mathematics_logo{
+        width: 330px;
+        height: 200px;
+}
+
+/* internet of things */
+.Internet_of_things{
+        border: 2px solid red;
+}
+
+.Internet_of_things_logo{
+        width: 330px;
+        height: 200px;
+}
+
+/* Object oriented programming */
+.Object_oriented_programming{
+        border: 2px solid yellow;
+}
+
+.Object_oriented_programming_logo{
+        width: 330px;
+        height: 200px;
+}
+
+/* Digital system */
+.Digital_system{
+        border: 2px solid brown;
+}
+
+.Digital_system_logo{
+        width: 330px;
+        height: 200px;
+}
+
+/* Graphic engineering */
+.Graphic_engineering{
+        border: 2px solid violet;
+}
+.Graphic_engineering_logo{
+        width: 330px;
+        height: 200px;
+}
+
+/* Environmental science */
+.Environmental_science{
+        border: 2px solid pink;
+}
+
+.Environmental_science_logo{
+        width: 330px;
+        height: 200px;
+}
+
+/* Crativity and Entrepreneurship */
+.Crativity_and_Entrepreneurship{
+        border: 2px solid purple;
+}
+
+.Crativity_and_Entrepreneurship_logo{
+        width: 330px;
+        height: 200px;
+}
 
 /* footer */
